@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task_Tho/1.0.0": {
+        "runtime": {
+          "Task_Tho.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task_Tho/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
