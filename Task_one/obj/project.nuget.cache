@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2ZVc4OcOtGwFblkHzFF9Q5b0Cs6zh6TI0XnD9TTXF+a5+d6myr73RGnh25xv4kuGAaHdvm3rJq9tiWEoeXsXw==",
+  "success": true,
+  "projectFilePath": "/home/nast/lessonС#/DZLessonFive/Task_one/Task_one.csproj",
+  "expectedPackageFiles": [
+    "/home/nast/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

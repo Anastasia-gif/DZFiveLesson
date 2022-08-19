@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DZLessonFive/Task_one/bin/Debug/net6.0/Task_one
+/home/nast/lessonС#/DZLessonFive/Task_one/bin/Debug/net6.0/Task_one.deps.json
+/home/nast/lessonС#/DZLessonFive/Task_one/bin/Debug/net6.0/Task_one.runtimeconfig.json
+/home/nast/lessonС#/DZLessonFive/Task_one/bin/Debug/net6.0/Task_one.dll
+/home/nast/lessonС#/DZLessonFive/Task_one/bin/Debug/net6.0/Task_one.pdb
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/Task_one.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/Task_one.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/Task_one.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/Task_one.AssemblyInfo.cs
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/Task_one.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/Task_one.dll
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/refint/Task_one.dll
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/Task_one.pdb
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/Task_one.genruntimeconfig.cache
+/home/nast/lessonС#/DZLessonFive/Task_one/obj/Debug/net6.0/ref/Task_one.dll
