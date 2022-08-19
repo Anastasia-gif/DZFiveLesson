@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DZLessonFive/Task_Three/bin/Debug/net6.0/Task_Three
+/home/nast/lessonС#/DZLessonFive/Task_Three/bin/Debug/net6.0/Task_Three.deps.json
+/home/nast/lessonС#/DZLessonFive/Task_Three/bin/Debug/net6.0/Task_Three.runtimeconfig.json
+/home/nast/lessonС#/DZLessonFive/Task_Three/bin/Debug/net6.0/Task_Three.dll
+/home/nast/lessonС#/DZLessonFive/Task_Three/bin/Debug/net6.0/Task_Three.pdb
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/Task_Three.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/Task_Three.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/Task_Three.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/Task_Three.AssemblyInfo.cs
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/Task_Three.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/Task_Three.dll
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/refint/Task_Three.dll
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/Task_Three.pdb
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/Task_Three.genruntimeconfig.cache
+/home/nast/lessonС#/DZLessonFive/Task_Three/obj/Debug/net6.0/ref/Task_Three.dll
